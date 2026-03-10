@@ -1,4 +1,4 @@
-# engce310-week6_lab_ntier_redis_loadbalance
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27229f8b-8812-45ad-b1d2-c00a2064fc12" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/565e4028-fc71-4560-b48b-9d40fc1f55a9" /># engce310-week6_lab_ntier_redis_loadbalance
 ผมใช้ popOS 
 
 เเลปนี้ ทำเว็บให้ เร็วขึ้นด้วย Redis และ อึดขึ้น ด้วย Nginx Load Balance
@@ -42,5 +42,20 @@ Load Testing (Simple)
 <img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/68d417a7-a14a-4ffe-b98e-46c806692200" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d6b59e7-a959-47c2-b771-e2281d825742" />
 
+
+
+
+ยิง health check ซ้ำ 30 ครั้ง
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f88f493a-6945-4e69-a6b9-bce57f6bfed9" />
+
+
+เตรียมเครื่องมือ Load Test
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4beba328-bfbc-49f1-a151-ef5d46135379" />
+
+ัรัน wrk
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/396e07c2-9890-4786-98f4-8f254c2b977f" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef21da9d-8a30-4550-83bb-029b4346d011" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3862201c-9551-4d07-838f-bdf31bdaf6e4" />
 
 
