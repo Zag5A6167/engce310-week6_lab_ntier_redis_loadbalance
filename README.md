@@ -1,3 +1,4 @@
+ผลการทดลองที่ทำในเเลปนี้
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27229f8b-8812-45ad-b1d2-c00a2064fc12" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/565e4028-fc71-4560-b48b-9d40fc1f55a9" /># engce310-week6_lab_ntier_redis_loadbalance
 ผมใช้ popOS 
 
