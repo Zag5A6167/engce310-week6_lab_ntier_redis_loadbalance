@@ -59,3 +59,9 @@ Load Testing (Simple)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3862201c-9551-4d07-838f-bdf31bdaf6e4" />
 
 
+ผล
+| Case | #App Instances | Concurrency (c) | Duration | Avg Latency | Requests/sec | สรุป |
+|-----|---------------|----------------|----------|-------------|--------------|------|
+| A | 1 | 50 | 20s | __35.14ms__ ms | 1443.66 | baseline |
+| B | 3 | 50 | 20s | 29.77 ms | 1873.43| after scale-out |
+
