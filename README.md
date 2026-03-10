@@ -34,4 +34,13 @@ Load Testing (Simple)
 <img width="1916" height="1012" alt="image" src="https://github.com/user-attachments/assets/78fc1ff3-c727-4f3c-9081-710743584ce7" />
 
 
+ยิง health check
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/95ba8f3d-b96b-424a-8ccc-41559854906f" />
+
+ปิด API app 1 ตัว ทดสอบซ้ำ (ให้ลองหลายครั้ง/หลายรอบ)
+
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/68d417a7-a14a-4ffe-b98e-46c806692200" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d6b59e7-a959-47c2-b771-e2281d825742" />
+
+
 
